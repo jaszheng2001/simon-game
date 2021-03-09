@@ -1,5 +1,5 @@
 Gif:
-[Walkthrough](http://g.recordit.co/qzmYsJUjJ1.gif)
+<img src="http://g.recordit.co/qzmYsJUjJ1.gif">
 <br>
 Project Demo:
 [Game Site](https://glimmer-excellent-atmosphere.glitch.me/)
